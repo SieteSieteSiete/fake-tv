@@ -33,3 +33,7 @@ To access cli from docker container, use:
 On Mac, activating a venv needs . (same as `source`), as in:
 
 `. .venv/bin/activate`
+
+# Filename Parser
+
+Current implementation works for my library, probably not complete. 
